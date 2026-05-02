@@ -1,0 +1,6 @@
+{
+  "name": "NHL Pulse",
+  "description": "En modern NHL-dashboard för matchresultat, recaps, highlights och poängliga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
